@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+# Optional for explainability/drift if needed:
+# shap
+# evidently
+# catboost
