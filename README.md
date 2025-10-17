@@ -8,7 +8,7 @@
 
 A comprehensive end-to-end data science pipeline for H&M sales prediction with advanced analytics, model explainability, fairness auditing, and interactive dashboards.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](http://localhost:8502/)
 
 ## 📑 Table of Contents
 
